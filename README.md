@@ -2,8 +2,12 @@
 
 > An AI-powered app built on Amazon Bedrock (PartyRock) that generates tailored AWS architecture recommendations from plain-English project descriptions — in seconds.
 
+---
+
 ## 🚀 Try It Live
+
 🔗 [Open the App on PartyRock](https://partyrock.aws/u/daminip/r8ZZPVj1pD/AWS-Cloud-Architecture-Advisor)
+
 > No AWS account or credit card required.
 
 ---
@@ -70,6 +74,22 @@ Paste in your project idea, choose your scale, budget, and priority — and the 
 - CloudWatch alarm if fewer than 190/200 stores upload
 - QuickSight SPICE pre-caches data before executives arrive
 
+> 📄 See full outputs for all three test cases in [`sample-outputs/`](./sample-outputs/)
+
+---
+
+## 📁 Repository Structure
+
+```
+aws-cloud-architecture-advisor/
+│
+├── README.md
+└── sample-outputs/
+    ├── food-delivery-platform.md
+    ├── hr-portal.md
+    └── retail-data-pipeline.md
+```
+
 ---
 
 ## 🛠️ Built With
@@ -83,5 +103,4 @@ Paste in your project idea, choose your scale, budget, and priority — and the 
 ## 👤 About
 
 Built as a portfolio project to demonstrate AWS solution design thinking
-across multiple use cases — from serverless microservices to batch
-data pipelines.
+across multiple use cases — from serverless microservices to batch data pipelines.
