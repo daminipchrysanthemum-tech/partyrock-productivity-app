@@ -1,4 +1,4 @@
-# 🏢 Sample Output 2 — Internal HR Time-Off Portal
+## 🏢 Sample Output 2 — Internal HR Time-Off Portal
 
 ## Input
 
